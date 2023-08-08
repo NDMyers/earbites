@@ -5,4 +5,7 @@ A website currently in development aimed to give Spotify users the ability to lo
 Similar to Spotify's end of the year 'wrapped', but accessible at any time before then.
 
 ## Tech Stack:
-TypeScript, Next.js, TailwindCSS, Vercel
+- TypeScript
+- Next.js
+- TailwindCSS
+- Vercel
